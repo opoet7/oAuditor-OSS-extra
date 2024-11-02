@@ -1,7 +1,7 @@
 import requests,re
 
 cookies = {
-    'workbench_session': 'put your session'
+    'workbench_session': '#put your session'
 }
 dl = ""
 for i in range(1, 99):
